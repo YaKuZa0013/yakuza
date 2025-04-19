@@ -1,0 +1,17 @@
+
+{
+    "bot-name": "SULA-MD",
+    "description": "SULA-MD WhatsApp bot made by Sulaksha Madara",
+    "logo": "https://i.ibb.co/dHwhYTC/SulaMd.jpg",
+    "keywords": ["bot"],
+    "documentation-link": "https://sula-md-g5sp.onrender.com",
+    "owner-verification":"sulakshamadara68@gmail.com",
+  
+      "env": {
+    "SESSION_ID": {
+      "description": "Put the session-id here.",
+      "required": true
+      }
+    }
+  
+  }
